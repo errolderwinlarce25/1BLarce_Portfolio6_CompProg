@@ -1,1 +1,1 @@
-My name is Errol Derwin G. Larce from BSChE 1B. This is my Portfolio #6 in the subject: BES 10A - Computer Fundamentals and Programming. This uses list statement to calculae for the potential energy of an object at different heights.
+My name is Errol Derwin G. Larce from BSChE 1B. This is my Portfolio #6 in the subject: BES 10A - Computer Fundamentals and Programming. This uses list statement to calculate for the potential energy of an object at different heights.
